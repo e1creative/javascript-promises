@@ -1,0 +1,17 @@
+.deck-of-cards {
+    display: block;
+    background-color: green;
+    height: auto;
+    min-height: 300px;
+    padding: 1rem;
+    text-align: center;
+}
+button#get-a-card {
+    margin-bottom: 2rem;
+}
+.cards {
+    position: relative;
+}
+.cards img {
+    position: absolute;
+}
